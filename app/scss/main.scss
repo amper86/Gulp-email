@@ -1,0 +1,7 @@
+//подключаем вспомогательные значения
+@import "helpers/base";
+@import "helpers/variables";
+@import "helpers/mixins";
+
+//подключаем стили
+@import "components/layout";
