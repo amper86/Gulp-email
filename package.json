@@ -14,7 +14,6 @@
     "gulp": "github:gulpjs/gulp#4.0",
     "gulp-debug": "^3.2.0",
     "gulp-inline-css": "^3.1.2",
-    "gulp-notify": "^3.2.0",
     "gulp-plumber": "^1.2.0",
     "gulp-pug": "^3.3.0",
     "gulp-sass": "^3.1.0",
